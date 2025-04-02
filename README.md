@@ -8,8 +8,6 @@ A lightweight 2D CAD application built with C#, WPF, and MVVM, enabling users to
 ✅ Data Persistence – Save & load shapes using JSON and a relational database (Entity Framework + LINQ).
 ✅ Scalability & Maintainability – Optimized with OOP principles for flexibility.
 
-📸 Screenshots
-(Add images or GIFs showcasing your app here)
 
 🛠️ Technologies Used
 C# – Core programming language
